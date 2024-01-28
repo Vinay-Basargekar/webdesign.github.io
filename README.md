@@ -8,7 +8,7 @@
 
 ### Live preview
 
-- URL: [web design:smile:](https://webDesign.github.io.)
+- URL: [web design :smile:](https://webdesign.github.io.)
 
 
 # Getting started
